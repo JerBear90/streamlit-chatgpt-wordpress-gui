@@ -20,6 +20,6 @@ pip install -r requirements.txt
 
 3. Run:
 ```bash
-streamlit run main.py
+python -m streamlit run main.py
 ```
 "# streamlit-chatgpt-wordpress-gui" 
