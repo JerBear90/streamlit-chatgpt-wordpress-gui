@@ -1,0 +1,10 @@
+# Prompt + Code History
+PROMPT:
+create a hello world shortcode
+RESPONSE:
+<?php
+// Hello World Shortcode
+function hello_func() { return 'Hello World'; }
+add_shortcode('hello_world', 'hello_func');
+================================================================================
+
